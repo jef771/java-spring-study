@@ -2,7 +2,7 @@
 A small and simple project used to study spring
 
 It contains brief explainations about:
-    Get, Post, Delete, and Put mappings
+    <li>Get, Post, Delete, and Put mappings
     Autowired
     Service
     RestController
@@ -10,4 +10,4 @@ It contains brief explainations about:
     Repository
     Query
     Configuration
-    Bean
+    Bean</li>
