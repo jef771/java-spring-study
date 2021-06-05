@@ -11,3 +11,9 @@ It contains brief explainations about:
 - Query
 - Configuration
 - Bean
+
+# Usage
+Install Intellij if you don't have
+Open up the project
+Build some tests!
+Tip: use postman to test put and delete
