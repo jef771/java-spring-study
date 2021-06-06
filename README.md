@@ -11,6 +11,7 @@ It contains brief explainations about:
 - Query
 - Configuration
 - Bean
+- Entity
 
 # Usage
 - Install Intellij if you don't have
